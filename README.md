@@ -13,24 +13,24 @@ S
 | ---------------- | ----------------- | ------------------- |
 | Emirali Gungor  | 300157209       | egung014@uottawa.ca |
 
-## ER 1
+### ER 1
 Les professeurs peuvent enseigner le
 même cours sur plusieurs semestres et seule
 la plus récente doit être enregistrée.
 ![ERDiagram](lab04/er01.png)
 
-## ER 3
+### ER 3
 Chaque professeur enseigne exactement
 un cours (ni plus, ni moins).
 ![ERDiagram](lab04/er03.png)
 
-## ER 5
+### ER 5
 Les professeurs peuvent enseigner le
 même cours sur plusieurs semestres et
 chaque doit être enregistrée.
 ![ERDiagram](lab04/er05.png)
 
-## ER 6
+### ER 6
 Supposons maintenant que certains cours
 puissent être enseignés conjointement par
 une équipe de professeurs, mais il est
@@ -42,31 +42,31 @@ relations supplémentaires si nécessaire.
 ![ERDiagram](lab04/er06.png)
 
 
-#### Diagramme Relationnel
+# Diagramme Relationnel
 
-## Diagramme 1
+#### Diagramme 1
 ![ERDiagram](lab04/diagram01.png)
 
-## Diagramme 3
+#### Diagramme 3
 ![ERDiagram](lab04/diagram03.png)
 
-## Diagramme 5
+#### Diagramme 5
 ![ERDiagram](lab04/diagram05.png)
 
-## Diagramme 6
+#### Diagramme 6
 ![ERDiagram](lab04/diagram06.png)
 
-#### Schéma Relationnel (SQL)
+# Schéma Relationnel (SQL)
 
 
-## Schema 1
-![ERDiagram](lab04/schema01.png)
+#### Schema 1
+![ERDiagram](lab04/schema01.sql)
 
-## Schema 3
-![ERDiagram](lab04/schema03.png)
+#### Schema 3
+![ERDiagram](lab04/schema03.sql)
 
-## Schema 5
-![ERDiagram](lab04/schema05.png)
+#### Schema 5
+![ERDiagram](lab04/schema05.sql)
 
-## Schema 6
-![ERDiagram](lab04/schema06.png)
+#### Schema 6
+![ERDiagram](lab04/schema06.sql)
