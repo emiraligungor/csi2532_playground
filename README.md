@@ -17,18 +17,18 @@ S
 Les professeurs peuvent enseigner le
 même cours sur plusieurs semestres et seule
 la plus récente doit être enregistrée.
-![ERDiagram](lab_04/er01.png)
+![ERDiagram](lab04/er01.png)
 
 ## ER 3
 Chaque professeur enseigne exactement
 un cours (ni plus, ni moins).
-![ERDiagram](lab_04/er03.png)
+![ERDiagram](lab04/er03.png)
 
 ## ER 5
 Les professeurs peuvent enseigner le
 même cours sur plusieurs semestres et
 chaque doit être enregistrée.
-![ERDiagram](lab_04/er05.png)
+![ERDiagram](lab04/er05.png)
 
 ## ER 6
 Supposons maintenant que certains cours
@@ -39,34 +39,34 @@ possible qu'aucun professeur dans une
 Modélisez cette situation en introduisant des
 ensembles d'entités et des ensembles de
 relations supplémentaires si nécessaire.
-![ERDiagram](lab_04/er06.png)
+![ERDiagram](lab04/er06.png)
 
 
 #### Diagramme Relationnel
 
 ## Diagramme 1
-![ERDiagram](lab_04/diagram01.png)
+![ERDiagram](lab04/diagram01.png)
 
 ## Diagramme 3
-![ERDiagram](lab_04/diagram03.png)
+![ERDiagram](lab04/diagram03.png)
 
 ## Diagramme 5
-![ERDiagram](lab_04/diagram05.png)
+![ERDiagram](lab04/diagram05.png)
 
 ## Diagramme 6
-![ERDiagram](lab_04/diagram06.png)
+![ERDiagram](lab04/diagram06.png)
 
 #### Schéma Relationnel (SQL)
 
 
 ## Schema 1
-![ERDiagram](lab_04/schema01.png)
+![ERDiagram](lab04/schema01.png)
 
 ## Schema 3
-![ERDiagram](lab_04/schema03.png)
+![ERDiagram](lab04/schema03.png)
 
 ## Schema 5
-![ERDiagram](lab_04/schema05.png)
+![ERDiagram](lab04/schema05.png)
 
 ## Schema 6
-![ERDiagram](lab_04/schema06.png)
+![ERDiagram](lab04/schema06.png)
